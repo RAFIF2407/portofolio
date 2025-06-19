@@ -4,7 +4,7 @@
         "year": "2023",
         "fund": "Rp 250.000",
         "role": "Electronic Engineer",
-        "image": "images/line.png",
+        "image": "images/rafif/line.png",
         "description": "Robot line follower adalah salah satu jenis robot paling dasar dan populer yang dirancang untuk mengikuti garis yang digambar di permukaan, biasanya berwarna hitam di latar belakang putih, atau sebaliknya. Garis tersebut berfungsi sebagai jalur yang harus diikuti robot."
     },
         {
@@ -12,7 +12,7 @@
         "year": "2023",
         "fund": "Rp 200.000",
         "role": "Electronic Engineer",
-        "image": "images/aquarium.png",
+        "image": "images/rafif/aquarium.png",
         "description": "Alat ini adalah perangkat yang dirancang untuk secara terus-menerus mengawasi berbagai parameter penting dalam akuarium. Tujuannya adalah untuk menjaga lingkungan akuarium tetap stabil dan optimal bagi kehidupan ikan, tanpa perlu intervensi manual yang sering dari pemiliknya."
     }
 ]
