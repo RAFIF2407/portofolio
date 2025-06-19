@@ -1,0 +1,37 @@
+{
+    "name": "Rafif Putra Haditama (拉菲夫)- Associate Degree Electronic Engineering",
+    "description": "Electronics Engineering student with hands-on experience in Electronics, Internet of Things (IoT), and Robotics. Skilled in designing and implementing electronic and IoT projects, including sensor integration, microcontroller programming, and wireless communication. Passionate about building innovative solutions through embedded systems and automation. Able to work both independently and collaboratively in project-based environments.",
+    "profileImage": "images/rafif/profil.jpg",
+    "email": "rafifputrah@gmail.com",
+    "phone": "+62 (895) 019-89090",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/rafif-putra-haditama"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/RAFIF2407"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/rafifph"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Hardware Programming", "icon": "fas fa-c", "level": 98},
+        {"name": "Digital System", "icon": "fa-solid fa-wave-square", "level": 95},
+        {"name": "Robotics", "icon": "fa-solid fa-robot","level": 92},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 92},
+	    {"name": "Hardware Design", "icon": "fas fa-microchip", "level": 92},
+        {"name": "Analog System", "icon": "fa-solid fa-gauge-high", "level": 80},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 92},
+	{"name": "English Languages", "icon": "fas fa-language", "level": 90},
+	{"name": "Chinese Languages", "icon": "fas fa-language", "level": 50}
+    ]
+}

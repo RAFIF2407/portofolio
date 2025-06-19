@@ -1,0 +1,16 @@
+[
+    {
+        "company": "POLIREVO",
+		"logo":"images/rafif/polirevo.png",
+        "position": "Head Division of KRAI",
+        "year": " September 2023 - July 2024",
+        "description": "As the team leader of the KRAI Robot Team for the 2024 Indonesia Robot Contest (KRI), I was responsible for overseeing the entire development process of the competition robot. I lead the design and implementation of the robot’s electrical system, including the creation of a Universal PCB board using EAGLE software, which was utilized in both robots built by the team. I also developed an encoder-based program as part of the autonomous navigation system for the second robot. Under my leadership, the team successfully passed the national selection stage and represented our institution at the KRI 2024 national level, held at Universitas Muhammadiyah Surakarta (UMS)."
+    },
+	{
+        "company": "Telkom Indonesia",
+		"logo":"images/rafif/telkom.png",
+        "position": "Internship",
+        "year": "August 2024 - December 2024",
+        "description": "During my internship at PT Telekomunikasi Indonesia, I was involved in the development of a user-friendly and low-cost IoT device aimed at introducing the company’s proprietary IoT platform to the broader public. The project focused on building a temperature monitoring system using the AHT10 temperature and humidity sensor. My responsibilities included hardware integration, sensor calibration, and ensuring seamless connectivity to the IoT platform. The goal was to deliver a practical and affordable solution that could serve as an educational and promotional tool for IoT adoption in local communities."
+    }
+]

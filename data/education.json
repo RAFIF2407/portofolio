@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Polytechnic State of Semarang",
+		"logo": "images/rafif/polines.png",
+        "major": "Associate Degree Electronic Engineering",
+        "year": "2022 - 2025",
+        "description": "GPA 3.7 of 4.0; Relevant coursework: Embedded Systems, IoT Development, Microcontroller Programming, PCB Design"
+    },
+    {
+        "university": "SMA Negeri 6 Semarang",
+		"logo": "images/rafif/SMA6.jpeg",
+        "major": "MIPA",
+        "year": "2019 - 2022",
+        "description": "GPA 87 of 100; Specialized in Mathematics and Physics"
+    }
+]
